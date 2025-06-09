@@ -13,9 +13,18 @@ profile:
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false # true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Greetings! I'm Tabitha, or "Tab" for short. I am a roboticist and postdoctoral fellow at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/), where I am advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
