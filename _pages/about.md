@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I'm Tabitha, or "Tab" for short. I am a roboticist and postdoctoral fellow at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/), where I am advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
+Greetings! I'm Tabitha, or "Tab" for short. I am a roboticist and postdoctoral fellow at the [Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/) at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/).
+I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
+My research is graciously supported by the [IVADO Postdoctoral Research Funding Program](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/).
 
 Previously, I completed my Ph.D. in Robotics at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](http://www.cmu.edu), where I was a member of the [Intelligent Autonomous Manipulation](https://labs.ri.cmu.edu/iam/) group led by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 During my Ph.D., my [thesis](https://www.ri.cmu.edu/publications/causal-robot-learning-for-manipulation/) focused on causal robot learning for manipulation. Specifically, I investigated the interplay between robot perception and control through the lens of causality to learn and leverage the causal structure of manipulation tasks. To this end, my research built toward a causal robot learning system that empowers lifelong autonomous manipulation in challenging, open-world settings, such as homes, hospitals, and restaurants.
@@ -39,8 +41,8 @@ Prior to my Ph.D., I invented, developed, and tested a vision-based localization
 This technology was invented through my M.S. in Robotics research with Prof. Nathan Michael and the [Resilient Intelligent Systems Lab](https://www.rislab.org/).
 Before CMU, I led the development of multiple software capabilities for safety-critical autonomous systems in the aerospace industry.
 
-I am also an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/), an [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award) [Honorable Mention](https://www.aspirations.org/22CollegiateRecipients) recipient, and a [Siebel Scholar in Computer Science](https://www.siebelscholars.com/).
+I am also an [IVADO Postdoctoral Research Funding Program recipient](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/), an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/), an [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award) [Honorable Mention recipient](https://www.aspirations.org/22CollegiateRecipients), and a [Siebel Scholar in Computer Science](https://www.siebelscholars.com/).
 
 Beyond my technical interests, I am also interested in working towards greater diversity, equity, inclusion, and accessibility in both academia and society, including ways in which automation can lead to greater societal advancement.
 
-<i>My website is currently a work in progress since I have moved to a new host. Thank you for your patience while I finish updating it!</i>
+<i>My website is currently a work in progress since I have moved to a new host. Thank you for your patience while I update it!</i>
