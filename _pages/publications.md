@@ -9,8 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-This webpage contains my publications since starting my Ph.D.
-For a complete list of my publications, including my previous areas of research in field robotics and aerodynamics of unmanned aerial vehicles, please see my <a href="https://scholar.google.com/citations?user=ZD6QUvYAAAAJ">Google Scholar webpage</a>.
+This webpage contains my publications in robotics and artificial intelligence since 2013.
+For a complete list of my publications, including my previous research area in subscale rotary-wing aerodynamics for application to unmanned aerial vehicles, please see my <a href="https://scholar.google.com/citations?user=ZD6QUvYAAAAJ">Google Scholar webpage</a>.
 
 My publications prior to 2021 are under my previous name. You are welcome to cite my work from before 2021 using either the existing citation (my previous name) or my initials, "T. E. Lee".
 
