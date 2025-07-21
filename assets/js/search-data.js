@@ -388,7 +388,7 @@ ninja.data = [{
           section: "News",},{id: "news-curate-our-curriculum-learning-algorithm-for-rl-agents-has-been-accepted-as-a-workshop-paper-at-the-exploration-in-ai-today-workshop-at-icml-2025",
           title: 'CURATE, our curriculum learning algorithm for RL agents, has been accepted as a...',
           description: "",
-          section: "News",},{id: "news-our-workshop-on-resource-rational-robot-learning-has-been-accepted-to-corl-2025-please-join-us-in-seoul-to-discuss-efficient-yet-performant-robot-learning",
+          section: "News",},{id: "news-our-workshop-on-resource-rational-robot-learning-has-been-accepted-to-corl-2025-please-join-us-in-seoul-to-discuss-rational-robots-that-learn-more-efficiently-pragmatically-and-resourcefully",
           title: 'Our workshop on Resource-Rational Robot Learning has been accepted to CoRL 2025! Please...',
           description: "",
           section: "News",},{id: "projects-project-1",
