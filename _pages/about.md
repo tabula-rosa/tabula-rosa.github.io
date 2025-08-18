@@ -31,6 +31,13 @@ Greetings! I'm Tabitha, or "Tab" for short. I am a roboticist and postdoctoral f
 I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
 My research is graciously supported by the [IVADO Postdoctoral Research Funding Program](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/).
 
+##### Research Focus
+My research seeks to imbue robots and agentic AI with the capability of ***learning what to learn:*** understanding and utilizing the meta-level principles, organization, and objects that govern learning.
+My research strives to move machine learning beyond data, towards methods for understanding the underlying data generating processes, intelligent structuring of learning through curricula and goal-setting, and richer representations for acquiring and transferring knowledge.
+My research goal is to design robots and agentic AI that can *safely* construct their own learning problems and close their own learning loop in order to augment and empower humanity within our open world.
+Towards this end, I am currently investigating the implications of causality for foundation models, curriculum learning for reinforcement learning agents, and safety in generative models.
+
+##### About Me
 Previously, I completed my Ph.D. in Robotics at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](http://www.cmu.edu), where I was a member of the [Intelligent Autonomous Manipulation](https://labs.ri.cmu.edu/iam/) group led by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 During my Ph.D., my [thesis](https://www.ri.cmu.edu/publications/causal-robot-learning-for-manipulation/) focused on causal robot learning for manipulation. Specifically, I investigated the interplay between robot perception and control through the lens of causality to learn and leverage the causal structure of manipulation tasks. To this end, my research built toward a causal robot learning system that empowers lifelong autonomous manipulation in challenging, open-world settings, such as homes, hospitals, and restaurants.
 
