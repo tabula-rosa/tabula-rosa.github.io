@@ -34,7 +34,7 @@ My research is graciously supported by the [IVADO Postdoctoral Research Funding 
 ##### Research Focus
 My research seeks to imbue robots and agentic AI with the capability of ***learning what to learn:*** understanding and utilizing the meta-level principles, organization, and objects that govern learning.
 My research strives to move machine learning beyond data, towards methods for understanding the underlying data generating processes, intelligent structuring of learning through curricula and goal-setting, and richer representations for acquiring and transferring knowledge.
-My research goal is to design robots and agentic AI that can *safely* construct their own learning problems and close their own learning loop in order to augment and empower humanity within our open world.
+My research goal is to design robots and agentic AI that can *safely* close their own learning loop in order to augment and empower humanity within our open world.
 Towards this end, I am currently investigating the implications of causality for foundation models, curriculum learning for reinforcement learning agents, and safety in generative models.
 
 ##### About Me
@@ -49,7 +49,3 @@ This technology was invented through my M.S. in Robotics research with Prof. Nat
 Before CMU, I led the development of multiple software capabilities for safety-critical autonomous systems in the aerospace industry.
 
 I am also an [IVADO Postdoctoral Research Funding Program recipient](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/), an [RSS Pioneer](https://sites.google.com/view/rsspioneers2024/), an [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award) [Honorable Mention recipient](https://www.aspirations.org/22CollegiateRecipients), and a [Siebel Scholar in Computer Science](https://www.siebelscholars.com/).
-
-Beyond my technical interests, I am also interested in working towards greater diversity, equity, inclusion, and accessibility in both academia and society, including ways in which automation can lead to greater societal advancement.
-
-<i>My website is currently a work in progress since I have moved to a new host. Thank you for your patience while I update it!</i>
