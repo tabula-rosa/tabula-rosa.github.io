@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Roboticist and Postdoctoral Fellow</b>
+subtitle: <b>Postdoctoral Fellow and Roboticist</b>
 
 profile:
   align: right
