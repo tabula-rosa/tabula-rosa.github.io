@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I'm Tabitha, or "Tab" for short. I am a postdoctoral fellow and roboticist at the [Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/) at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/).
+Greetings! I'm Tabitha, and I am a postdoctoral fellow and roboticist at the [Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/) at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/).
 I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
 My research is graciously supported by the [IVADO Postdoctoral Research Funding Program](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/).
 
 ##### Research Focus
-My research seeks to imbue robots and embodied AI with the capability of ***learning what to learn:*** understanding and utilizing the meta-level principles, organization, and objects that govern learning.
+My research seeks to imbue robots and embodied AI with the capability of ***learning what to learn:*** understanding and utilizing the principles, organization, and objects that govern learning.
 My research strives to move machine learning towards methods for understanding the underlying data generating processes, intelligent sequencing of learning through curricula and goal-setting, and richer representations for acquiring and transferring knowledge.
 My research goal is to design robots and agentic AI that can *safely* close their own learning loop in order to augment and empower humanity within our open world.
 Towards this end, I am currently investigating causal robot intelligence, including the implications of causality for foundation models; curriculum learning and goal-conditioned learning for reinforcement learning agents; and safety in generative models.
