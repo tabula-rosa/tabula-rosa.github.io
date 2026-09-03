@@ -1,6 +1,49 @@
 ---
 ---
 
+@article{lee2026curate,
+  title={CURATE: Automatic Curriculum Learning for Reinforcement Learning Agents through Competence-Based Curriculum Policy Search in Structured Task Spaces},
+  author={Lee, Tabitha Edith and Ke*, Nan Rosemary and Patil*, Sarvesh and Dahmani, Annya and Yiu, Eunice and Saleh, Esra'a and Gopnik, Alison and Kroemer, Oliver and Berseth, Glen},
+  annotation={*Equal contribution.},
+  year={2026},
+  abstract={Due to fundamental exploration challenges without informed priors or specialized algorithms, agents may be unable to consistently receive informative rewards, leading to inefficient or intractable learning. To address these challenges, we introduce CURATE, an automatic curriculum learning algorithm for reinforcement learning agents in structured task spaces of monotonic difficulty. Through "exploration by exploitation," CURATE dynamically scales the task difficulty to match the agent's current competence. By exploiting its current capabilities that were learned in easier tasks, the agent improves its exploration in more difficult tasks. Our key insight is that the learning improvement in tasks that are close to those used for training is inversely proportional to their difficulty, and an agent that chooses a nearby distribution of the easiest unsolved tasks at any given time can automatically induce an easiest-to-hardest curriculum in these task spaces. To achieve this, CURATE conducts policy search in the task space to learn the best task distribution for training. As the agent's mastery grows, the learned curriculum adapts in an approximately easiest-to-hardest and task-directed fashion, efficiently culminating in a performant agent. Our experiments across three diverse domains (MiniGrid, Procgen, BipedalWalker) demonstrate that CURATE learns effective curricula for sample efficiency and proficiency with the potential for yielding broadly capable agents, matching or exceeding prior curriculum methods that do not require informed initialization or predefined schedules.},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  url={https://openreview.net/forum?id=DlnvWfoIgv},
+  html={https://openreview.net/forum?id=DlnvWfoIgv},
+  pdf={https://openreview.net/pdf?id=DlnvWfoIgv},
+  website={https://montrealrobotics.ca/curate/},
+  code={https://github.com/montrealrobotics/curate-code},
+  preview={curate-curriculum-learning-tmlr-preview.png},
+  selected={true},
+}
+
+@article{mclean2025ai,
+  title={AI Agent Safety is a Reinforcement Learning Problem},
+  author={McLean, Reginald and Lee, Tabitha Edith and Mohammedalamen, Montaser and Roice, Kevin and Berseth, Glen and Pilarski, Patrick M. and Machado, Marlos C. and Škopac, Alyssa Lefaivre and Rosman, Benjamin},
+  year={2026},
+  abstract={With the rapid advancement and deployment of Agentic AI, our scientific understanding of capabilities and limitations has not kept pace, leading to cases where AI agents cause harm. We argue that many of these safety limitations are not novel problems. Instead, the safety challenges currently facing AI agents can be seen as instances of problems the reinforcement learning (RL) community has studied rigorously for decades. The core of this argument concerns the problem formulation of AI agents. AI agents are designed to solve sequential decision-making problems: problems with long-term objectives in which actions have delayed consequences. To model these types of problem, the problem is set up the problem such that the agent receives observations, feedback on its progress, and then takes actions. This is precisely the formulation of the RL problem. In this paper, we formalize the problem equivalence, which we then leverage to argue that AI Agent safety is a reinforcement learning problem: the failure modes currently observed in deployed AI agents are structural instances of problems RL has formalized for decades, and the RL safety literature provides principled tools to diagnose and address them. We conclude with a call for deliberate collaboration between the RL and AI agent research communities: AI agent researchers gain access to principled frameworks, while RL researchers gain a class of real-world problems that could expose fundamental gaps in current RL benchmarks and theory.},
+  journal={Second Workshop on Agents in the Wild: Safety, Security, and Beyond at the Forty-Third International Conference on Machine Learning (AIWILD@ICML 2026)},
+  url={https://openreview.net/forum?id=wvga9chmb6},
+  html={https://openreview.net/forum?id=wvga9chmb6},
+  pdf={https://openreview.net/pdf?id=wvga9chmb6},
+  website={https://icml.cc/virtual/2026/67776},
+  poster={https://icml.cc/media/PosterPDFs/ICML%202026/67776.png?t=1782508974.738902},
+  preview={ai-safety-is-rl-preview.png},
+}
+
+@article{lee2026aligning,
+  title={Aligning Few-Step Generative Model via Amortizing Sample-Based Variational Inference},
+  author={Lee*, Jaewoo and Kang*, Hyeongyu and Kim, Dohyun and Sim, Kyuil and Shin, Woocheol and Kim, Minsu and Yun, Taeyoung and Lee, Jeongjae and Choi, Sanghyeok and Lee, Tabitha Edith and Ye, Jong Chul and Park, Jinkyoo},
+  annotation={*Equal contribution.},
+  year={2026},
+  abstract={Aligning a few-step generative model is challenging since existing alignment frameworks typically rely on restrictive assumptions: a tractable likelihood, a specific ODE/SDE solver, or a particular model family. We introduce FAV (Few-step Generative Models Alignment via Sample-based Variational Inference), a general alignment framework that requires only sample access to the generator and the reference distribution. We cast alignment as sampling from a reward-tilted distribution anchored to a reference distribution. We leverage Stein Variational Gradient Descent as a sample-based variational inference scheme and amortize its particle updates into the parameters of the generator via fixed-point regression. We evaluate FAV on two domains: robotics manipulation and image generator alignment. On generative policy alignment for robotic manipulation, FAV outperforms prevailing policy extraction baselines across 56 offline and 30 offline-to-online RL tasks. On image generator alignment, FAV fine-tunes diverse few-step backbones, including GAN, drifting models, consistency models, and flow maps, scaling from ImageNet-256 to 1024 text-to-image synthesis.},
+  journal={Structured Probabilistic Inference & Generative Modeling Workshop at the Forty-Third International Conference on Machine Learning (SPIGM@ICML 2026)},
+  url={https://openreview.net/forum?id=5CNn617yWW},
+  html={https://openreview.net/forum?id=5CNn617yWW},
+  pdf={https://openreview.net/pdf?id=5CNn617yWW},
+  website={https://icml.cc/virtual/2026/74385},
+  preview={fav-aligning-generative-models-preview.png},
+}
 
 @article{lee2025exploration,
   title={Exploration by Exploitation: Curriculum Learning for Reinforcement Learning Agents through Competence-Based Curriculum Policy Search},
@@ -8,14 +51,13 @@
   annotation={*Equal contribution. †Equal contribution. §Equal supervision.},
   year={2025},
   abstract={We present CURATE, an algorithm for automatic curriculum learning for reinforcement learning agents to solve a difficult target task distribution with sparse rewards. Initially, due to fundamental exploration challenges without informed priors or specialized algorithms, agents may be unable to consistently receive rewards, leading to inefficient learning. Through "exploration by exploitation," CURATE dynamically scales the task difficulty to match the agent's current competence. By exploiting its current capabilities that were learned in easier tasks, the agent improves its exploration in more difficult tasks. While training the agent, CURATE conducts policy search in the curriculum space to learn a task distribution for the agent corresponding to the easiest unsolved tasks. As the agent's mastery grows, the learned curriculum adapts correspondingly in an approximately easiest-to-hardest fashion, efficiently culminating in an agent that can solve the target tasks. Our experiments demonstrate that the curricula learned by CURATE achieve greater sample efficiency for solving the target tasks than state-of-the-art algorithms and most baselines. Although an incremental, easiest-to-hardest curriculum was more performant for one-dimensional curricula, CURATE shows promising performance for two-dimensional curricula where the optimal task sequencing is not obvious.},
-  journal={Exploration in AI Today Workshop at the Forty-Second International Conference on Machine Learning (EXAIT at ICML 2025)},
+  journal={Exploration in AI Today Workshop at the Forty-Second International Conference on Machine Learning (EXAIT@ICML 2025)},
   url={https://openreview.net/forum?id=mAeQuz0gbR},
   html={https://openreview.net/forum?id=mAeQuz0gbR},
   pdf={https://openreview.net/pdf?id=mAeQuz0gbR},
   website={https://icml.cc/virtual/2025/51486},
   poster={https://drive.google.com/file/d/1IhJLGp6BQlkv4VqDQkxGJbO331obZq5D/view?usp=sharing},
   preview={curate-curriculum-learning-exait-preview.png},
-  selected={true},
 }
 
 
