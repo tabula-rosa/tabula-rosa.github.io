@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 Greetings! I'm Tabitha, and I am a postdoctoral fellow and roboticist at the [Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/) at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/).
-I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) and [Prof. Yoshua Bengio](https://yoshuabengio.org/).
+I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) as a member of the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/).
 My research is graciously supported by the [IVADO Postdoctoral Research Funding Program](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/).
 
 ##### Research Focus
