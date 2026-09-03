@@ -32,10 +32,14 @@ I am grateful to be advised by [Prof. Glen Berseth](https://neo-x.github.io/) as
 My research is graciously supported by the [IVADO Postdoctoral Research Funding Program](https://ivado.ca/en/2025/05/20/ivado-announces-the-recipients-of-its-2025-postdoctoral-research-funding-program/).
 
 ##### Research Focus
-My research seeks to imbue robots and embodied AI with the capability of ***learning what to learn:*** understanding and utilizing the principles, organization, and objects that govern learning.
-My research strives to move machine learning towards methods for understanding the underlying data generating processes, intelligent sequencing of learning through curricula and goal-setting, and richer representations for acquiring and transferring knowledge.
-My research goal is to design robots and agentic AI that can *safely* close their own learning loop in order to augment and empower humanity within our open world.
-Towards this end, I am currently investigating causal robot intelligence, including the implications of causality for foundation models; curriculum learning and goal-conditioned learning for reinforcement learning agents; and safety in generative models.
+My research seeks to imbue robots and embodied AI agents with the capability of ***learning what to learn:*** understanding and utilizing the principles, organization, and objects that govern learning.
+My research goal is to create robots that can *safely* close their own learning loop in order to empower humanity within our open world.
+
+To realize this vision, my work advances ***embodied intelligence*** through four key pillars:
+1. **Causal Embodied Intelligence:** Identifying and leveraging the causal structure that underlies data. Investigating the implications of causality for foundation models and the emergence of causal understanding.
+2. **Automatic Curriculum Learning and Goal-Conditioned RL:** Intelligent sequencing of learning through autocurricula and goal-setting for reinforcement learning agents.
+3. **Generative Simulation and World Models:** Greater physical understanding and steerable data generation for generative and neural simulation, including for sim-to-real transfer.
+4. **Safety:** Avoiding harm in control, inference, and learning for robots, AI agents, and generative models.
 
 ##### About Me
 Previously, I completed my Ph.D. in Robotics at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](http://www.cmu.edu), where I was a member of the [Intelligent Autonomous Manipulation](https://labs.ri.cmu.edu/iam/) group led by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
