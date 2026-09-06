@@ -41,6 +41,8 @@ To realize this vision, my work advances ***embodied intelligence*** through fou
 3. **Generative Simulation and World Models:** Greater physical understanding and steerable data generation for generative and neural simulation, including for sim-to-real transfer.
 4. **Safety:** Avoiding harm in control, inference, and learning for robots, AI agents, and generative models.
 
+All four pillars uphold learning what to learn. Causality tells us *what is important,* curricula determine *when to learn it,* generative simulation provides *the engine to imagine it,* and safety ensures *it benefits humanity.*
+
 ##### About Me
 Previously, I completed my Ph.D. in Robotics at the [Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](http://www.cmu.edu), where I was a member of the [Intelligent Autonomous Manipulation](https://labs.ri.cmu.edu/iam/) group led by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 During my Ph.D., my [thesis](https://www.ri.cmu.edu/publications/causal-robot-learning-for-manipulation/) focused on causal robot learning for manipulation. Specifically, I investigated the interplay between robot perception and control through the lens of causality to learn and leverage the causal structure of manipulation tasks. To this end, my research built toward a causal robot learning system that empowers lifelong autonomous manipulation in challenging, open-world settings, such as homes, hospitals, and restaurants.
