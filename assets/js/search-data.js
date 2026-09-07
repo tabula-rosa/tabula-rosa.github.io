@@ -420,7 +420,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-selected-as-a-gold-reviewer-for-icml-2026-for-ranking-in-the-top-25-of-reviewers-based-on-outstanding-review-service-thank-you-icml",
           title: 'I was selected as a Gold Reviewer for ICML 2026 for ranking in...',
           description: "",
-          section: "News",},{id: "news-i-gave-an-invited-talk-at-the-research-connections-social-event-thank-you-cohere-labs-and-research-connections-organizing-team-for-the-opportunity-to-meet-everyone-and-our-great-discussion",
+          section: "News",},{id: "news-i-gave-an-invited-talk-at-the-research-connections-social-event-thank-you-cohere-labs-and-research-connections-organizing-team-for-the-opportunity-to-meet-everyone-and-our-great-discussion-video",
           title: 'I gave an invited talk at the Research Connections social event. Thank you,...',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-icml-2026-workshops-1-ai-agent-safety-and-reinforcement-learning-aiwild-icml-and-2-aligning-generative-models-spigm-icml",
